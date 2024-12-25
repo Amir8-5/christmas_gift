@@ -1,4 +1,3 @@
-import React from 'react';
 
 export const ChristmasTree = () => (
   <div className="w-[300px] h-auto mx-auto mb-8 relative">

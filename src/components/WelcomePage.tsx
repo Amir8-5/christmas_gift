@@ -1,4 +1,3 @@
-import React from 'react';
 import { Snowfall } from './Snowfall';
 import { ChristmasTree } from './ChristmasTree';
 import { BackgroundDecorations } from './decorations/BackgroundDecorations';

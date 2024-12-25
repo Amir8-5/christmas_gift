@@ -1,4 +1,3 @@
-import React from 'react';
 import { Gift, CandyCane, Bell, Star, TreePine, Snowflake, Heart } from 'lucide-react';
 
 const decorations = [

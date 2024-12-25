@@ -1,4 +1,3 @@
-import React from "react";
 import { WelcomePage } from "./components/WelcomePage";
 import { PersonPage } from "./components/PersonPage";
 import { FamilySelection } from "./components/FamilySelection";
